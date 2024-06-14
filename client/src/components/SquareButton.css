@@ -1,0 +1,12 @@
+.SquareButton-root {
+  width: 30px;
+  height: 30px;
+  min-width: 30px;
+  min-height: 30px;
+  margin: 5px;
+  border-radius: 4px;
+}
+
+.SquareButton-root:hover {
+    border-radius: 50%;
+}

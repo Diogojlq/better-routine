@@ -1,0 +1,54 @@
+/* LoginCard.css */
+
+#card {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+#card-content {
+  text-align: center;
+}
+
+#card-title {
+  margin-bottom: 20px;
+}
+
+.underline-title {
+  width: 80px;
+  height: 2px;
+  background-color: #007bff;
+  margin: 0 auto;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-content {
+  margin-bottom: 10px;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+.form-border {
+  margin-bottom: 10px;
+}
+
+#submit-btn {
+  padding: 8px;
+  border: none;
+  border-radius: 3px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+#submit-btn:hover {
+  background-color: #0056b3;
+}

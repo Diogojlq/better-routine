@@ -1,0 +1,15 @@
+.base {
+    padding: 0.2rem;
+    margin: 1rem auto;
+    width: 1900px;
+    max-width: 95%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+.header {
+    text-align: center;
+    margin: 15px;
+}
